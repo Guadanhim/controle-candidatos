@@ -1,4 +1,4 @@
-# CCriando Um Pequeno Sistema Para Validação de Processo Seletivo
+# Criando Um Pequeno Sistema Para Validação de Processo Seletivo
 ## estudo e prática
 Ao decorrer do estudo você encontrará as seguintes alterações no código:
 
