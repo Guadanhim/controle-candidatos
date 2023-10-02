@@ -1,7 +1,7 @@
 # controle-candidatos
- Estudo do uso de breakpoints / Analisando candidatos 
+ Estudo do uso de breakpoints | Analisando candidatos 
  
- Selecionando candidatos
+ Ilustração do uso do ```While```| Selecionando candidatos
  
- Fazendo ligação para cada candidato selecionado 
+ |Fazendo ligação para cada candidato selecionado 
  
