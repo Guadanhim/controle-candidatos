@@ -8,5 +8,5 @@ Ao decorrer do estudo você encontrará as seguintes alterações no código:
 
  3. Ilustração do uso do ```for``` e listas | Imprimindo uma lista com os candidatos selecionados
  
- 4. |Fazendo ligação para cada candidato selecionado 
+ 4. Ilustração do uso do ```Do While```|Fazendo ligação para cada candidato selecionado 
  
