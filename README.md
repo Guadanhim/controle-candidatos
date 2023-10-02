@@ -1,5 +1,5 @@
 # Criando Um Pequeno Sistema Para Validação de Processo Seletivo
-## estudo e prática
+## estudo associado à prática
 Ao decorrer do estudo você encontrará as seguintes alterações no código:
 
  1. Estudo do uso de breakpoints | Analisando candidatos 
